@@ -1,0 +1,9 @@
+.wp-list-table .column-form_id {
+    width: 100px;   /* Can be adjusted as needed */
+}
+.wp-list-table .column-field_data {
+    width: 80%;   /* Custom width */
+}
+.wp-list-table .column-submitted_at {
+    width: 150px;
+}
